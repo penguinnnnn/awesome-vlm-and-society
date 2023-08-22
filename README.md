@@ -1,4 +1,5 @@
 # VLM and Society
+Recent papers on Vision-Language Models' bias/stereotype issues.
 
 ## Stereotype and Bias
 - <a href="https://arxiv.org/abs/2210.04610">[Paper]</a> Red-Teaming the Stable Diffusion Safety Filter, Javier Rando, Daniel Paleka, David Lindner, Lennart Heim, Florian Tramèr, *October 2022*
