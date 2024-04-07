@@ -11,5 +11,12 @@ Recent papers on Vision-Language Models' bias/stereotype issues.
 - <a href="https://arxiv.org/abs/2306.05949">[Paper]</a> Evaluating the Social Impact of Generative AI Systems in Systems and Society, Irene Solaiman, Zeerak Talat, William Agnew, Lama Ahmad, Dylan Baker, Su Lin Blodgett, Hal Daumé III, Jesse Dodge, Ellie Evans, Sara Hooker, Yacine Jernite, Alexandra Sasha Luccioni, Alberto Lusoli, Margaret Mitchell, Jessica Newman, Marie-Therese Png, Andrew Strait, Apostol Vassilev, *June 2023*
 
 ## Cross-Cultural Difference
+- <a href="https://arxiv.org/abs/2209.08891">[Paper]</a> Exploiting Cultural Biases via Homoglyphs in Text-to-Image Synthesis, Lukas Struppek, Dominik Hintersdorf, Felix Friedrich, Manuel Brack, Patrick Schramowski, Kristian Kersting, *September 2022*
 - <a href="https://arxiv.org/abs/2301.12073">[Paper]</a> Towards Equitable Representation in Text-to-Image Synthesis Models with the Cross-Cultural Understanding Benchmark (CCUB) Dataset, Zhixuan Liu, Youeun Shin, Beverley-Claire Okogwu, Youngsik Yun, Lia Coleman, Peter Schaldenbrand, Jihie Kim, Jean Oh, *January 2023*
 - <a href="https://arxiv.org/abs/2307.02971">[Paper]</a> On the Cultural Gap in Text-to-Image Generation, Bingshuai Liu, Longyue Wang, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, Zhaopeng Tu, *July 2023*
+- <a href="https://arxiv.org/abs/2310.01929">[Paper]</a> Navigating Cultural Chasms: Exploring and Unlocking the Cultural POV of Text-To-Image Models, Mor Ventura, Eyal Ben-David, Anna Korhonen, Roi Reichart, *October 2023*
+
+## Surveys
+- <a href="https://arxiv.org/abs/2302.09270">[Paper]</a> Towards Safer Generative Language Models: A Survey on Safety Risks, Evaluations, and Improvements, Jiawen Deng, Jiale Cheng, Hao Sun, Zhexin Zhang, Minlie Huang, *February 2023*
+- <a href="https://arxiv.org/abs/2307.16680">[Paper]</a> On the Trustworthiness Landscape of State-of-the-art Generative Models: A Survey and Outlook, Mingyuan Fan, Chengyu Wang, Cen Chen, Yang Liu, Jun Huang, *July 2023*
+- <a href="https://arxiv.org/abs/2311.09680">[Paper]</a> Trustworthy Large Models in Vision: A Survey, Ziyan Guo, Li Xu, Jun Liu, *November 2023*
